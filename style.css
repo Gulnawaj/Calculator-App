@@ -47,7 +47,7 @@ body.light .calculator h1 {
 input {
     border: none;
     outline: none;
-    background: #374151; /* Darker background for text contrast */
+    background: #374151; 
     color: white;
     padding: 15px;
     border-radius: 10px;
@@ -73,7 +73,7 @@ body.light input::placeholder {
 
 .row {
     display: flex;
-    justify-content: space-between; /* Replaces the broken .calculator div rule */
+    justify-content: space-between;
     margin-bottom: 12px;
 }
 
